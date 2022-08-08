@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.b126996c.css",
-    "main.js": "/static/js/main.c838a8e5.js",
-    "index.html": "/index.html",
-    "main.b126996c.css.map": "/static/css/main.b126996c.css.map",
-    "main.c838a8e5.js.map": "/static/js/main.c838a8e5.js.map"
+    "main.css": "/inputDevChallenge/static/css/main.b126996c.css",
+    "main.js": "/inputDevChallenge/static/js/main.c838a8e5.js",
+    "index.html": "/inputDevChallenge/index.html",
+    "main.b126996c.css.map": "/inputDevChallenge/static/css/main.b126996c.css.map",
+    "main.c838a8e5.js.map": "/inputDevChallenge/static/js/main.c838a8e5.js.map"
   },
   "entrypoints": [
     "static/css/main.b126996c.css",
